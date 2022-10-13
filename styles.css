@@ -1,0 +1,31 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&family=Source+Sans+Pro:wght@300;400&display=swap');
+
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+body
+{
+background-color:#CDFCF6;
+text-align: center;
+}
+.links{
+    text-decoration: none;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+button{
+    background-color:#5F9DF7;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    
+}
+#sumbit-btn{
+    margin-top: 5vh;
+}
